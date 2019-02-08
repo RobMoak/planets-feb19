@@ -1,0 +1,4 @@
+ignoreme/
+*.out
+results*/
+*.jpg
